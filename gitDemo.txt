@@ -1,3 +1,4 @@
 git is a version control system very good  
 Git is free software  distributed under the GPL.
 Hello World!
+Erveyone should know  where fire alarm box is located ,and where exits ,fire escapes and xx are.
